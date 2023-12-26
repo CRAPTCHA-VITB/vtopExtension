@@ -25,7 +25,8 @@ Simplifying VTOP with captcha solutions, themes, navbar shortcuts, and an ad-fre
  ## Features
 
 - **Advanced Captcha Solver:**
-  - Say goodbye to frustrating captcha errors with our advanced captcha solver, ensuring a seamless and stress-free browsing experience on VTOP.
+  - Say goodbye to frustrating captcha errors with our advanced captcha solver, ensuring a seamless and stress-free browsing experience on VTOP. Based on [Presto412's](https://github.com/Presto412) Image Segmentation based [Captcha Parser](https://github.com/Presto412/Captcha-Cracker) logic. (Now Deprecated)
+  (Since VIT Bhopal updated it's captcha to be slimer that the obfuscations , the accuracy of this captcha parser becomes very low. And, servers are costly, to host an ML Algo that solves the captcha more accurately.)
 
 - **Customizable Themes:**
   - Personalize your VTOP interface with our incredible selection of 9 themes. Choose the look that suits your style and make VTOP truly yours.
@@ -39,17 +40,17 @@ Simplifying VTOP with captcha solutions, themes, navbar shortcuts, and an ad-fre
 - **Navbar for Quick Navigation:**
   - Streamline your online academic journey with our Navbar, providing quick access to essential VTOP pages right from your home screen.
 
-- **Designed for VIT Bhopal Students:**
-  - Developed by VIT Bhopal students, for VIT Bhopal students. Tailored to meet the specific needs and preferences of the VIT Bhopal community.
+- **Attendance Calculator:**
+  - Calculates your attendance, and helps you track your classes left before you reach 75%(74.01% in VIT terms) or below.
 
-- **Optimized for Efficiency:**
-  - Our VTOP Enhancer is designed to optimize your VTOP experience, making it more efficient and user-friendly.
+- **Marks Calculator:**
+  - Creates a table cell below, to calculate your total marks , helpful in estimating your overall subject performance.
 
 - **Easy Installation:**
   - Hassle-free installation process, ensuring that you can start enjoying the enhanced VTOP experience in no time.
 
-- **Community-Driven Development:**
-  - Continuously updated and improved based on user feedback. Join our community and be a part of shaping the future of CRAPTCHA.
+- **Auto Updates:**
+  - As a part of shaping the future of CRAPTCHA, Updates are necessary.. and the extension will automatically check for any new updates available.
 
 
 and much more...
